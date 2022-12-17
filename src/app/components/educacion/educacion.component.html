@@ -1,0 +1,41 @@
+<section>
+    <div class="box-title">
+      <div class="text-title">
+        <p>Educación</p>
+      </div>
+
+      <div class="list">
+        <ul class="card-list">
+          <li *ngFor=" let educacion of educaciones" class="item-list">
+            <div class="item-head">
+              <div class="item-name">
+                <h3></h3>
+              </div>
+              <div class="edit-icons">
+                <i class="fa fa-pencil" aria-hidden="true"></i>
+                <i class="fa fa-trash" aria-hidden="true" style="font-size:24px"></i>
+              </div>
+            </div>
+            <div class="item-content">
+              <div class="item-img">
+                <img [src]="educacion.imagen">
+              </div>
+              <div class="item-texto">
+                <div class="puesto">
+                  <p>{{educacion.curso}}</p>
+                </div>
+                <div class="descripcion">
+                  <p>{{educacion.descripcion}}</p>
+                </div>
+                <div class="periodo">
+                  <p>{{educacion.fecha}}</p>
+                </div>
+              </div>
+            </div>
+
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+

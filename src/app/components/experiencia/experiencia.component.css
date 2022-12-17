@@ -1,0 +1,10 @@
+
+  .box-title{
+    font-family: 'Old Standard TT', serif;
+    background-color: #DAE5D0;
+  }
+
+  .text-title{
+    display: flex;
+    justify-content: space-between;
+  }

@@ -1,0 +1,38 @@
+ #perfilfoto {
+      height: 300px;
+      width: 300px; 
+      padding: 10%;
+      border-radius: 125px;
+      vertical-align: middle;
+    }
+  
+  .acercaDeMi{
+      display: grid;
+      grid-template-columns: 33% 33% 33%;
+      grid-template-rows: auto 30px;
+      background-color: beige;
+      margin-bottom: 10px;
+      padding: 2% 0;
+  }
+  
+  .imagen{
+      grid-column-start: 1;
+      grid-column-end: 2;
+  }
+  
+  .text-acercaDeMi{
+      grid-column-start: 2;
+      grid-column-end: 4;
+  }
+  
+  .frase{
+      grid-column-start: 1;
+      grid-column-end: 4;
+  }
+  
+  @media (max-width:970px){
+      .acercaDeMi{
+          display: flex;
+          flex-direction: column;
+      }
+  }

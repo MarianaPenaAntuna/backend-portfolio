@@ -1,0 +1,142 @@
+{
+  "datos-personales": [
+    {
+      "nombre": "Mariana Pena",
+      "posicion": "Full Stack Junior",
+      "imagen-perfil": "portafolio/src/assets/fotos/foto2022.jpg",
+      "descripcion": "Tengo 46 años, soy psicologa y estoy comenzando el apasionante camino del mundo IT. Mi objetivo primordial es encontrar una oportunidad laboral para desarrollarme en este campo. Quienes me rodean, destacan mi agudeza para observar y transmitir eficazmente las ideas. Tengo gran habilidad de aprendizaje y resiliencia. Esto me permite ser flexible para afrontar nuevos desafios.Me apasiona trabajar en grupo y mejorar el ambiente laboral.",
+      "frase": "Todo el mundo es un genio. Pero si juzgas a un pez por su habilidad para trepar un árbol, vivirá toda su vida creyendo que es un necio"
+    }
+  ],
+  "educacion": [
+    {
+      "id": "1",
+      "img": "https://argentinaprograma.inti.gob.ar/pluginfile.php/1/theme_moove/sliderimage1/1662441043/banner-ok-argentina-programa.jpg",
+      "lugar": "Argentina Programa - Ministerio de Desarrollo",
+      "curso": "programador web full-stack junior",
+      "fecha": "junio 2022 - en curso"
+    },
+    {
+      "id": "2",
+      "img": "https://codoacodo.bue.edu.ar/images/logoAgencia.png",
+      "lugar": "Codo a codo - GCBA",
+      "curso": "Phyton Front-End",
+      "fecha": "agosto 2022 - en curso"
+    },
+    {
+      "id": "3",
+      "img": "https://app.aluracursos.com/user/marianapenamovil#oracle-next-education",
+      "lugar": "Alura Latam",
+      "curso": "Python, Data Science en OCI y Oracle Analytics - ONE",
+      "fecha": "septiembre 2022 - en curso"
+    },
+    {
+      "id": "4",
+      "img": "https://app.aluracursos.com/user/marianapenamovil#oracle-next-education",
+      "lugar": "Alura Latam",
+      "curso": "Formacion MySQL (158 hs)",
+      "fecha": "julio - agosto 2022"
+    },
+    {
+      "id": "5",
+      "img": "https://app.aluracursos.com/user/marianapenamovil#oracle-next-education",
+      "lugar": "ALura Latam - Oracle Next Education",
+      "curso": "Principiante en programación y Formación en Front-End (563 hs)",
+      "fecha": "enero - junio 2022"
+    },
+    {
+      "id": "6",
+      "img": "https://education.oracle.com/file/general/Oracle_University_Generic_Badge.png",
+      "lugar": "Oracle University",
+      "curso": "Cloud Infrastructure 2022 Certified Foundations Associate",
+      "fecha": "septiembre 2022"
+    },
+    {
+      "id": "7",
+      "img": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.institucionulloa.com.ar/wp-content/uploads/2020/04/UBA-300x225.jpg",
+      "lugar": "UBA",
+      "curso": "Licenciada y Profesora en Psicología",
+      "fecha": "1995-1999"
+    }
+  ],
+  "experiencia": [
+    {
+      "id": "13",
+      "img": "https://www.pjn.gov.ar/home",
+      "lugar": "Poder Judicial de la Nación",
+      "puesto": "perito psicóloga de oficio",
+      "tareas": "armado de curricula ydictado de clases",
+      "fecha": "2003-2012"
+    },
+    {
+      "id": "14",
+      "img": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.institucionulloa.com.ar/wp-content/uploads/2020/04/UBA-300x225.jpg",
+      "lugar": "UFLO - Facultad de Psicologia",
+      "puesto": "Jefa de trabajos prácticos en materia Psicopatologia",
+      "tareas": "dictado de clases y armado de curricula",
+      "fecha": "2003-2012"
+    },
+    {
+      "id": "15",
+      "img": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_300/https://www.institucionulloa.com.ar/wp-content/uploads/2020/04/UBA-300x225.jpg",
+      "lugar": "UBA - Facultad de Psicologia",
+      "puesto": "ayudante materias Psicométricas y Salud Pública",
+      "tareas": "dictado de clases y tutoria de grupo de prácticas",
+      "fecha": "1999-2010"
+    },
+    {
+      "id": "16",
+      "img": "",
+      "lugar": "ISalud - Facultad de Nutrición",
+      "puesto": "ayudante materias Psicologia para nutricionistas",
+      "tareas": "dictado de clases",
+      "fecha": "2009-2010"
+    },
+    {
+      "id": "17",
+      "img": "https://www.facebook.com/photo/?fbid=402308908741451&set=a.402308868741455&__tn__=%3C",
+      "lugar": "GCBA - Centro de Salud n*3 Ameghino",
+      "puesto": "terapeuta y jefa de servicio Adultos Turno Tarde",
+      "tareas": "terapeuta individual - coordinadora de equipo elegida por voto",
+      "fecha": "2000-2008"
+    },
+    {
+      "id": "12",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Mapfre_logo.svg",
+      "lugar": "Galeno - MAPFRE -art-",
+      "puesto": "terapeuta",
+      "tareas": "terapia post accidentes laborales",
+      "fecha": "2005-2010"
+    }
+  ],
+  "skills": [
+    {
+      "id": "21",
+      "nombre": "",
+      "porcentaje": ""
+    }
+  ],
+  "proyectos": [
+    {
+      "id": "31",
+      "nombre": "encriptador en js",
+      "institucion": "oracle one next education alura",
+      "img": "",
+      "link": "https://github.com/MarianaPenaAntuna/challenge-one-encriptador"
+    },
+    {
+      "id": "32",
+      "nombre": "ahorcado en js",
+      "institucion": "oracle one next education alura",
+      "img": "",
+      "link": "https://github.com/MarianaPenaAntuna/challenge2"
+    },
+    {
+      "id": "33",
+      "nombre": "portafolio",
+      "institucion": "oracle one next education alura",
+      "img": "",
+      "link": ""
+    }
+  ]
+}
